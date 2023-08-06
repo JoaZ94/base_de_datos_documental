@@ -335,7 +335,7 @@ db.books.aggregate([
 })
 ```
 
-Para vizualizar la interfaz gráfica Mongo-Express, se ingresa al naveador la siguiente dirección:
+Para vizualizar la interfaz gráfica Mongo-Express, se ingresa al navegador la siguiente dirección:
 
 ```bash
 http://localhost:8081/
