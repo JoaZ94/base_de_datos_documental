@@ -350,6 +350,6 @@ http://localhost:8081/
 
 ![Bases de datos vistas desde Mongo Express](images/dbs.png)
 
-### Documentos de la Coleeción Books de la Base de datos db_book_store
+### Documentos de la Colección Books de la Base de datos db_book_store
 
 ![Documentos de la Colección Books de la Base de datos db_book_store](images/documents.png)
