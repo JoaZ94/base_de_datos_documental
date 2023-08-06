@@ -335,6 +335,13 @@ db.books.aggregate([
 })
 ```
 
+Para vizualizar la interfaz gráfica Mongo-Express, se ingresa al naveador la siguiente dirección:
+
+```bash
+http://localhost:8081/
+```
+
+
 ![Consulta libros género Clásico con calificación promedio de 4 o superior](images/consulta_genero_calificacion_media.png)
 
 ### Bases de datos vistas desde Mongo Express
