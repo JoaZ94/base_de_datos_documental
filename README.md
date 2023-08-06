@@ -336,3 +336,11 @@ db.books.aggregate([
 ```
 
 ![Consulta libros género Clásico con calificación promedio de 4 o superior](images/consulta_genero_calificacion_media.png)
+
+### Bases de datos vistas desde Mongo Express
+
+![Bases de datos vistas desde Mongo Express](images/dbs.png)
+
+### Documentos de la Coleeción Books de la Base de datos db_book_store
+
+![Documentos de la Coleeción Books de la Base de datos db_book_store](images/documents.png)
