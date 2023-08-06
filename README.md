@@ -352,4 +352,4 @@ http://localhost:8081/
 
 ### Documentos de la Coleeción Books de la Base de datos db_book_store
 
-![Documentos de la Coleeción Books de la Base de datos db_book_store](images/documents.png)
+![Documentos de la Colección Books de la Base de datos db_book_store](images/documents.png)
