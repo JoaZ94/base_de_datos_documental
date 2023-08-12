@@ -332,7 +332,7 @@ db.books.aggregate([
     $match: { promedio_calificacion: { $gt: 4 } }
   }
 ]);
-})
+
 ```
 
 
